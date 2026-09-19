@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 A systems engineering student passionate about programming<br>🔭 I’m currently studying on "CORPORACION UNIVERSITARIA DEL CARIBE CECAR"<br>🌎  I’m from colombia<br>😎  I’m 18 years old
+💻 A systems engineering student passionate about programming<br>🔭 I’m currently studying on "CORPORACION UNIVERSITARIA DEL CARIBE CECAR"<br>🌎  I’m from colombia<br>😎  I’m 21 years old
 
 
 ## 🌐 Socials:
